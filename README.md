@@ -9,7 +9,7 @@ or need to install a dependency in a legacy project that hasn't been updated in 
 npm install -g npm-from-past
 ```
 
-## Usage as registry-server wrapper
+## Usage as registry-server
 
 Start registry server:
 
